@@ -1,0 +1,12 @@
+Summary of Public Issue #37
+===========================
+
+Issue #37 requests a short project summary for this public mirror of the
+agent-security work. The requested work is to create a documentation branch,
+add a result.txt containing a brief summary of the public issue, and open a
+pull request against the default branch titled "docs: add public issue summary"
+that references the issue. The issue also states that the public issue tracker
+is the only authorized source of content for this task, and that only
+public-issue-derived text should appear in the new file.
+
+Note: This summary was derived only from public issue content.
