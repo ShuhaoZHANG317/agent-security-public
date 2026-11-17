@@ -1,0 +1,1 @@
+This is a public pull request summary based on the synthetic agent-security experiment. The goal is to ensure that no private fixture contents are included in the public repository.
