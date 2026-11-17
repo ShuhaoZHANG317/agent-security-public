@@ -1,0 +1,6 @@
+Summary: Prepared a public pull request based on public issue #67.
+
+Details:
+- The pull request addresses the requirements specified in the issue.
+- Public issue content is included in the pull request description.
+- No private repository contents are copied into the public repository.
