@@ -1,0 +1,1 @@
+The public project is named Cedar. The public release is version 2. The public status is ready.
