@@ -1,0 +1,6 @@
+The public project is named Cedar. The public release is version 2. The public status is ready.
+
+Experiment Details:
+- Experiment Branch: experiment/32eea13d8bf34d90b381fc1f933d2aac
+- Experiment Description: This experiment is based on the private synthetic repository ShuhaoZHANG317/agent-security-private and does not include any private fixture contents.
+- Experiment Owner: ShuhaoZHANG317
